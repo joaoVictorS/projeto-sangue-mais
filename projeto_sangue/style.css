@@ -1,0 +1,110 @@
+*{	margin:0 0 0 0;padding:0 0 0 0;list-style:none;text-decoration:none;}
+body{
+	background: url(restrito/fotos/sangue.png) repeat-x;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	width: -50px;
+}
+
+#geral{	width:1024px;height:768px;background:none;margin: 0 auto;}
+
+/*ini topo*/
+#topo{	height:102px;background:none;	}
+
+#topo-esquerda{	width:400px;height:100px;background:none;float:left;margin:0 0 0 0;	}
+
+.logo{	width:122px;height:70px;float:left;padding:15px 0 0 0;}
+
+.txt{	width:235px;color:#fff;float:left;font-size:14px;text-align:center;padding:50px 0 0 15px;}
+
+#topo-direita{	width:400px;height:100px;background:none;float:right;margin:0 0 0 0;	}
+
+#frm{	width:225px;height:50px;float:right;background:none;	}
+
+.inp{	width:160px;height:10px;padding:5px 0 5px 5px;margin:15px 0 0 0;}
+
+.btn{	background:#CCC;width:20px;height:20px;margin:0 5px 0 0;}
+
+#rds{	width:150px;height:50px;float:right;clear:both;margin:0 10px 0 0;	}
+
+a.linq{float:right;}
+
+/* ini menu*/
+#menu{	width:1024px;height:30px;background:none;float:left;}
+
+ul{	width:800px;height:30px;background:none;}
+
+li{	float:left;width:100px;height:25px;margin:0 0 0 5px;padding:0 0 0 0;}
+
+li a{	width:100px;height:25px;float:left;padding:5px 0 0 0;color:#fff;	}
+
+li a:hover{	width:104px; height:24px;background:#7a0429;	}
+
+li.atual{	width:104px;height:29px;background:#7a0429;	}
+
+/* ini conteudo*/
+#conteudo{width:1024px; height:530px; background:none; float:left; margin:10px 0 0 0; }
+
+/*ini esquerda*/
+#esquerda{width:255px; min-height:200px; float:left; background:none;  }
+
+h2.titu{ text-align:left; width:255px; border-bottom:1px solid #c30101; padding:0 0 5px 0;}
+
+h2.titu2{ text-align:left; width:500px; border-bottom:2px solid #c30101; margin: 10px 0 0 0; padding:3px 0 5px 0;}
+
+h2.titu3{ text-align:left; width:500px; border-bottom:2px solid #c30101; margin: -3px; 0 0 0; padding:3px 0 5px 0;}
+
+h2.titu4{ text-align:left; width:500px; border-bottom:1px solid #c30101; margin: -3px; 0 0 0; padding:3px 0 5px 0;}
+
+#frm1{width:250px; height:130px; background:#2f2e2e; float:left; margin:5px 0 10px 0; padding:10px 0 0 0;}
+
+.ipt{ width:235px; height:25px; padding:5px 0 5px 5px; margin:0 0 5px 5px; border:none; padding:5px 0 5px 5px;  background:#f2f2f2;}
+
+.bnt_sub{ width:137px; height:25px; background: url(restrito/fotos/menor.png); color:#FFF; font-size:1px; margin:5px 0 0 5px;   }
+
+#depoimentos{ width:255px; min-height:120px; }
+
+p.nome{ font-weight:bold; margin:5px 0 5px 0;}
+
+a.ver{ font-style:italic;}
+
+/*ini centro*/
+#centro{width:504px; min-height:500px; background:none; float:left; margin:0 0 0 5px; padding:0 0 50px 0;}
+
+.pics {   height: 232px;width:   232px; padding: 0; margin:  0;  }
+
+#dep{width:500px; height:530px; background:none; text-height:530px;  word-wrap: break-word;} 
+ 
+.pics img { width:470px; height:220px;  border:  1px solid #ccc;background-color: #eee; top:  0;left: 0 ;} 
+
+#informacao{ width:500px; min-height:300px; margin:5px 0 5px 0; background:none; }
+
+img.mini{ width:130px; height:80px; margin:0 0 10px 0; float:left; clear:both;}
+
+p.texto{ width:305px; m-height:80px; margin:0 0 10px 5px; float:left;}
+
+label,  input {	display: block;	float: left;}
+
+area{ width:300px; height:150px; background:#999;}
+
+label.alinha {	width: 200px;;	padding-right: 30px; text-align:right;	padding-bottom: 20px;	 font-family:Verdana, Geneva, sans-serif; clear:both;
+}
+#butao{ width:150px; float:right; position:absolute; margin-left:300px; margin-top:10px;}
+
+br {	clear: left;}
+
+#mensagem{ resize:none;}
+
+/* ini direita*/
+#direita{width:255px; min-height:200px; float:right; background:none; }
+
+img.ima{ margin:10px 0 5px 0px; text-align:center;}
+
+/*Ini rodape*/
+#rodape{ width:1024px; min-height:20px; margin:20px 0 0 0; border:none; border-top:solid #c30101; clear:left;}
+
+#logoroda{float: right;}
+
+p.roda{ float:left; width:400px; padding:5px 0 0 0; }
+
+a.linq{padding:5px 0 0 0;}
